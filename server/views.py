@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
-# author: le4f.net
+# author: herryboda
 
 from server import *
 from server.func import *
